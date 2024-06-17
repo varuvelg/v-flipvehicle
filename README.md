@@ -9,7 +9,7 @@ Vehicle flipover script
 - Add v-flipvehicle to your 'resources' directory
 - Add 'ensure v-flipvehicle' in your 'server.cgf'
 - Add qb-target function under Config.TargetBones in init.lua
-```{
+```lua{
     type = "client",
     event = "v-carflip:flipcar",
     icon = "fas fa-car-crash",
@@ -17,7 +17,7 @@ Vehicle flipover script
 },```
 or
 - Add qb-radialmenu function under Config.lua
-```{
+```lua{
     id = 'flipvehicle',
     title = 'Flip Vehicle',
     icon = 'car-crash',
