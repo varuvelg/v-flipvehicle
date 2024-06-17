@@ -4,6 +4,9 @@ Vehicle flipover script
 ## Depedencies
 - [ox_lib](https://github.com/overextended/ox_lib/releases)
 
+## Showcase
+- https://streamable.com/xgp2fz
+
 ## Installation
 1. Ensure you have all dependencies above installed
 2. Add v-flipvehicle to your 'resources' directory
