@@ -8,7 +8,7 @@ Vehicle flipover script
 1. Ensure you have all dependencies above installed
 2. Add v-flipvehicle to your 'resources' directory
 3. Add 'ensure v-flipvehicle' in your 'server.cgf'
-4. Add funvtion v-carflip where you want it to be used like qb-target or qb-radialmenu those two are also shown below
+4. Add function v-carflip where you want it to be used like qb-target or qb-radialmenu those two are also shown below
 - Add qb-target function under Config.TargetBones in init.lua
 ```lua
 {
